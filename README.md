@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abdulmateen77
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on python projects
+- 💞️ I’m looking to collaborate on python and JavaScript projects
 - 📫 How to reach me sabdulmateen1@gmail.com
 
 <!---
