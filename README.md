@@ -1,61 +1,18 @@
-👋 Hi, I'm Abdul Mateen
+# 👋 Hi, I'm Abdul Mateen
 
 🤖 **AI Engineer | Agentic AI & AI Automation**
 
-I build **production-focused AI systems, autonomous agents, and multi-agent workflows** using Python and modern AI engineering technologies.
+I build **AI agents, multi-agent systems, and intelligent automation** with Python.
 
-🧠 AI Engineering
+### 🧠 AI Engineering
+AI Agents • Multi-Agent Systems • Agent Orchestration • RAG • Vector Databases • Embeddings • Chunking • Semantic Search • Tool Calling • Agent Memory • MCP
 
-- 🤖 AI Agents & Agentic AI Systems
-- 🧩 Multi-Agent Systems & Agent Orchestration
-- 🔗 RAG (Retrieval-Augmented Generation)
-- 🗄️ Vector Databases & Semantic Search
-- 🧠 Embeddings, Chunking & Retrieval Pipelines
-- 🛠️ Tool Calling & Function Calling
-- 🔌 MCP (Model Context Protocol)
-- 🧠 Context Engineering & Agent Memory
-- 🔄 AI Workflow Automation
-- 📊 LLM-powered Data & Knowledge Systems
+### ⚙️ Tech Stack
+Python • FastAPI • LangChain • LangGraph • MCP • Groq • OpenAI • PostgreSQL • Docker • REST APIs
 
-### 🐍 Engineering Stack
+### 🚀 Focus
+Building **production-ready AI systems** that connect LLMs with knowledge, tools, APIs, and real-world business workflows.
 
-- Python
-- FastAPI
-- PostgreSQL
-- SQL
-- REST APIs
-- Docker
-- Git & GitHub
-- Async Python
-- Pydantic
+🤝 Open to collaborating on Agentic AI & AI Engineering projects.
 
-### ⚡ AI / Agent Stack
-
-- LangChain
-- LangGraph
-- MCP
-- LLM APIs
-- Groq
-- OpenAI
-- RAG Pipelines
-- Vector Databases
-- Embedding Models
-- Agent Orchestration
-- Multi-Agent Architectures
-
-### 🚀 What I Build
-
-```text
-LLMs
- ↓
-Agents
- ↓
-Tools & MCP
- ↓
-RAG / Knowledge
- ↓
-Multi-Agent Orchestration
- ↓
-Business Workflows
- ↓
-Production AI Systems
+📫 **sabdulmateen1@gmail.com**
