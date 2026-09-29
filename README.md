@@ -2,7 +2,7 @@
 
 🤖 **AI Engineer | Agentic AI & AI Automation**
 
-I build **AI agents, multi-agent systems, and intelligent automation** with Python.
+I build **AI agents, multi-agent systems, and intelligent automation**.
 
 ### 🧠 AI Engineering
 AI Agents • Multi-Agent Systems • Agent Orchestration • RAG • Vector Databases • Embeddings • Chunking • Semantic Search • Tool Calling • Agent Memory • MCP
